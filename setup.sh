@@ -1,3 +1,3 @@
 python -m venv .venv/
 source .venv/bin/activate
-pip install jupyer notebook
+pip install jupyter notebook
