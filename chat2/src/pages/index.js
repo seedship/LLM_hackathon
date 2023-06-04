@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import { Message } from '../../components/message'
+import { Message } from '../components/message'
 import React from 'react'
 
 export default function Home() {
